@@ -12,3 +12,4 @@ I created this repository for my personal C Program revision but you can learn f
 &emsp;&emsp;<font size = "4">[1.3- Data Types](/1-%20Basic%20Concepts/1.3-%20Data%20Types.md)</font> </br>
 &emsp;&emsp;<font size = "4">[1.4- Input & Output](/1-%20Basic%20Concepts/1.4-%20Input%20%26%20Output.md)</font> </br>
 &emsp;&emsp;<font size = "4">[1.5- Comments](/1-%20Basic%20Concepts/1.5-%20Comments.md)</font> </br>
+&emsp;&emsp;<font size = "4">[1.6- Operators](/1-%20Basic%20Concepts/1.6-%20Operators.md)</font> </br>
